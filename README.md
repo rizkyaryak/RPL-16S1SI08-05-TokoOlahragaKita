@@ -1,5 +1,4 @@
 # RPL-16S1SI08-05-TokoOlahragaKita
-Synopsis
 Aplikasi E-Commerce pada Toko Olahraga Kita yang berbasis website.
 
 # Motivation
